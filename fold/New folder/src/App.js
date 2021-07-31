@@ -37,7 +37,7 @@ function App() {
     <
     h1 className = "brand" >
     <
-    i className = "fas fa-moon" > < /i> CoinMaster <
+    i className = "fas fa-moon" > < /i> DogeMaster <
     /h1> <
     form >
     <
